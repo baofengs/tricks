@@ -1,5 +1,5 @@
 ---
-title: Blogging Like a Hacker: bar
+title: Blogging Like a Hacker
 lang: zh-cn
 ---
 
