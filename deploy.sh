@@ -19,6 +19,8 @@ git commit -m 'deploy'
 # 更新编译后的页面
 git push -f git@github.com:x-bao/tricks.git master:gh-pages
 
+echo 'deploy pages done'
+
 cd -
 
 git add -A
