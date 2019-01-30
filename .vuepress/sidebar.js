@@ -21,4 +21,11 @@ module.exports = [
             './docs/css/transitions.md'
         ]
     },
+    {
+        title: 'PHP',
+        collapsable: false,
+        children: [
+            './docs/php/'
+        ]
+    },
 ]

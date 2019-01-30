@@ -3,8 +3,7 @@ title: What are Tricks
 lang: zh-cn
 ---
 
-关于此库
----
+## About
 
 - 总结代码片段
 - 总结使用技巧
