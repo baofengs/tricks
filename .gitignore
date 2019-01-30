@@ -1,3 +1,4 @@
 .vuepress/dist
 *.swo
 *.swp
+node_modules
