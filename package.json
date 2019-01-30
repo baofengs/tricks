@@ -1,0 +1,13 @@
+{
+  "name": "tricks",
+  "version": "1.0.0",
+  "description": "come on baby",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
