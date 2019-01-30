@@ -6,6 +6,7 @@ npm run docs:build
 
 cd ./.vuepress/dist
 echo 'tricks.sanbaofengs.com' > CNAME
+cp ../../favicon.ico .
 git init
 git add -A
 git commit -m 'deploy'
