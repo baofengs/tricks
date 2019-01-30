@@ -11,8 +11,6 @@ module.exports = [
         collapsable: false,
         children: [
             './docs/js/',
-            './docs/js/map.md',
-            './docs/js/css-class.md'
         ]
     },
     {
