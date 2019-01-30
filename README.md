@@ -3,6 +3,8 @@ title: What are Tricks
 lang: zh-cn
 ---
 
+![Tricks](./Tricks.png)
+
 ## About
 
 - 总结代码片段
