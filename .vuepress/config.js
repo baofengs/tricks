@@ -11,5 +11,8 @@ module.exports = {
         nav,
         sidebar,
     },
+    markdown: {
+        lineNumbers: true
+    },
     ga: 'UA-80885450-6',
 }
