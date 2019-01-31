@@ -1,12 +1,5 @@
 module.exports = [
     {
-        title: 'About',
-        collapsable: false,
-        children: [
-            '/'
-        ]
-    },
-    {
         title: 'JS',
         collapsable: false,
         children: [
@@ -18,7 +11,8 @@ module.exports = [
         collapsable: false,
         children: [
             './docs/css/',
-            './docs/css/transitions.md'
+            './docs/css/transitions.md',
+            './docs/css/custom-list-number.md'
         ]
     },
     {

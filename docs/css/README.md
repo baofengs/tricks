@@ -1,5 +1,7 @@
 ---
 title: CSS
+prev: false
+next: false
 ---
 
 # css readme

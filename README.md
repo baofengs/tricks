@@ -1,12 +1,13 @@
 ---
-title: What are Tricks
-lang: zh-cn
+home: true
+heroImage: https://imgs.sanbaofengs.com/Tricks.png
+heroText: '🙈'
+tagline: 笔记 & 代码片段
+actionText: Show me the CODE
+actionLink: /docs/css/
+footer: MIT Licensed | Copyright © 2018-present San Baofeng
 ---
 
-![Tricks](./Tricks.png)
-
-## About
-
-- 总结代码片段
-- 总结使用技巧
-- 包括但是不限于：HTML、CSS、JS、PHP 等，以前端相关知识为主
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>

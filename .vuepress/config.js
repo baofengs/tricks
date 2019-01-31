@@ -10,7 +10,6 @@ module.exports = {
     themeConfig: {
         nav,
         sidebar,
-        lastUpdated: '上次更新',
     },
     ga: 'UA-80885450-6',
 }
