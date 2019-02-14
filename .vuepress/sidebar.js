@@ -12,7 +12,8 @@ module.exports = [
         children: [
             './docs/css/',
             './docs/css/transitions.md',
-            './docs/css/custom-list-number.md'
+            './docs/css/custom-list-number.md',
+            './docs/css/Fluidly-sized-images.md'
         ]
     },
     {

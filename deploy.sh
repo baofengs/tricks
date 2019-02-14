@@ -2,7 +2,7 @@
 
 set -e
 
-npm run docs:build
+npm run build
 
 cd ./.vuepress/dist
 echo 'tricks.sanbaofengs.com' > CNAME
